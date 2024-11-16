@@ -50,5 +50,5 @@ let shans = 5;
 // } while (shans > 0);
 
 
-
+alert("үй жұмысы аяқталды")
 
