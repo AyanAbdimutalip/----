@@ -13,7 +13,7 @@ function san(number) {
     return number
 }
 
-alert( "Siz zhazgan san - " + san(number))
+alert( "Siz zhazgan san - " + san(number) + " !")
 
 
 
